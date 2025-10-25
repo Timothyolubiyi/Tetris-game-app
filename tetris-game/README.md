@@ -113,3 +113,5 @@ The game uses a vibrant color palette for Tetromino pieces:
 5. Use the rotate function strategically
 
 Enjoy playing Tetris! 🎮✨
+
+<img width="799" height="952" alt="Image" src="https://github.com/user-attachments/assets/a8ae453e-f34d-49b8-b7b7-fad2c45824c3" />
